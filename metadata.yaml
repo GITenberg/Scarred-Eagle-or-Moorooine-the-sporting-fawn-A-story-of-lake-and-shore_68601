@@ -1,0 +1,39 @@
+_repo: Scarred-Eagle-or-Moorooine-the-sporting-fawn-A-story-of-lake-and-shore_68601
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dearborn, Andrew
+    birthdate: 1836
+    deathdate: 1909
+    gutenberg_agent_id: '54856'
+    url: http://www.gutenberg.org/2009/agents/54856
+description: ''
+gutenberg_issued: '2022-07-24'
+identifiers:
+  gutenberg: '68601'
+language: en
+pgterms:marc905: 20200424120133various
+pgterms:marc906: '1872'
+pgterms:marc907: US
+production_note: David Edwards, Thomas Frost and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Northern Illinois University Digital Library)
+publication_note: United States :Beadle and Adams,1872,copyright 1884.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Beadle's Pocket Novels No. 104
+subjects:
+- !lcsh 'Miami Indians -- Fiction'
+- !lcsh 'Fort Detroit (Detroit, Mich.) -- Fiction'
+- !lcsh 'Indians of North America -- Fiction'
+- !lcsh 'Irish -- United States -- Fiction'
+- !lcsh 'Pontiac''s Conspiracy, 1763-1765 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Indian women -- Fiction'
+- !lcsh 'Detroit (Mich.) -- History -- Siege, 1763 -- Fiction'
+- !lcsh 'Indian captivities -- Fiction'
+- !lcsh 'Scouts (Reconnaissance) -- Fiction'
+- !lcsh 'Dime novels'
+- GITenberg
+title: Scarred Eagle; or, Moorooine, the sporting fawn. A story of lake and shore
+url: http://www.gutenberg.org/ebooks/68601
